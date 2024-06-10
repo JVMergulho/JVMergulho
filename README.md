@@ -3,3 +3,8 @@
 ## Oi, eu sou João Mergulhão! :ocean:
 
 - :computer: Sou um estudante de Ciência da Computação no CIn-UFPE
+
+![JVMergulho's github stats](https://github-readme-stats.vercel.app/api?username=JVMergulho&theme=tokyonight&show_icons=true&count_private=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVMergulho&hide=Jupyter%20Notebook,Verilog,VHDL&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
