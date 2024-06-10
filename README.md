@@ -4,9 +4,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=004687"/>
 
-## Oi, eu sou João Mergulhão! :ocean:
+# Oi, eu sou João Mergulhão! :ocean:
 
-- :computer: Sou um estudante de Ciência da Computação no CIn-UFPE
+:computer: Sou um estudante de Ciência da Computação no CIn-UFPE
 
 ### Find Me
 
