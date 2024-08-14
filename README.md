@@ -6,7 +6,9 @@
 
 # Oi, eu sou João Mergulhão! :ocean:
 
-:computer: Sou um estudante de Ciência da Computação no CIn-UFPE
+:computer: Estudante de Ciência da Computação CIn-UFPE
+
+:apple: Apple developer Academy-UFPE
 
 ### Find Me
 
@@ -27,7 +29,3 @@
 ### 📊 My Github Stats
 <img src="https://streak-stats.demolab.com?user=JVMergulho&locale=en&mode=daily&theme=algolia" height="180" alt="streak graph"/> <img src="https://github-readme-stats.vercel.app/api?username=JVMergulho&theme=algolia&show_icons=true&count_private=true" height="180" />
 
-### 🏆 Top Langs
-<a href="https://github.com/JVMergulho">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMergulho&hide=Jupyter%20Notebook,Verilog,VHDL&theme=algolia&layout=compact" height="180"/>
-</a>
