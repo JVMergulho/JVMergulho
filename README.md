@@ -8,8 +8,6 @@
 
 :computer: Estudante de Ciência da Computação CIn-UFPE
 
-:apple: Apple developer Academy-UFPE
-
 ### Find Me
 
 <div>
